@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang&family=Ysabeau&display=swap');
+
+body {
+  font-family: 'Ysabeau', 'Gowun Batang', sans-serif;
+  background-color: #ffd8e8;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+    
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+  font-size: 2.5rem;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: #444;
+  text-indent: 30px;
+}
+
+.profile {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  height: 280px;
+  border-radius: 5%;
+  border: 5px solid #fdab4d;
+}
